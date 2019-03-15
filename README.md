@@ -1,5 +1,5 @@
 # MultiChatSockets
-Un chat usando Sockets y la libreria pthread.h
+Un chat en C con Sockets y la libreria pthread.h
 
 
 V-0.0.1
