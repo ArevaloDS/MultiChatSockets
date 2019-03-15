@@ -2,6 +2,8 @@
 Un chat usando Sockets y la libreria pthread.h
 
 
+V-0.0.1
+
 gcc -o servidor -l pthread servidor.c
 
 
